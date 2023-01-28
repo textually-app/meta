@@ -23,7 +23,6 @@ You’re probably in a good place to:
 In mechanical terms, I imagine the flow to be something like this:
 
 1. You “prove” who you are, self-attest to being kind and sign up.
-   signs up.
 2. You maintain a rich profile that is guided by the app.
 3. You post about what you want with good tags.
 4. People login and follow the main (local timeline) feed and filter
