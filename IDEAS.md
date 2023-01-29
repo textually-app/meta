@@ -10,6 +10,11 @@ If you had a Mastadon instance with:
 - a streamlined theme that fit the tone of the site
 - strong community guidelines and norms (e.g. using tags and authentic
   IDs)
+- possibly tweak an open source client app like [Ice
+  Cubes][ice-cubes-app] to
+   - better show the profiles,
+   - allow for sub-groups based on tags,
+    - disable or enable different counts to guide behaviour
 - possibly even single-sign-on to something like Signal for genuine
   encrypted conversations
 
@@ -34,3 +39,4 @@ In mechanical terms, I imagine the flow to be something like this:
    ad.
 
 [textually-about]: https://github.com/textually-app/community/blob/main/ABOUT.md
+[ice-cubes-app]: https://github.com/Dimillian/IceCubesApp
